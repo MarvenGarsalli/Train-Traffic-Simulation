@@ -2,6 +2,7 @@
 ######################### *_* Train Trafic Simulator *_* ##############################
 * Documentation author: Marwen Gharsalli
 * Email               : mgharsa@stud.hs-offenburg.de
+* P.e-mail            : marw2n.garsall1@gmail.com
 #######################################################################################
 This project was applied on the Tunis and Paris light rail (metro) lines.
 
@@ -20,6 +21,7 @@ G++ 4.8 compiler with C++11
 #        +-------------------------------------+
 For Linux Platform:
 Need to handle the Hidden char Because Linux add a char at the end of each line.
+*)The Third Part need to be carried out
 
 
 #        +-------------------------------------+
