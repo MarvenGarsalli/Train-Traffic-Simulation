@@ -1,0 +1,30 @@
+Ligne 1-a:x1-x4
+x1
+x2
+x3
+x4
+
+Ligne 1-b:x4-x1
+x4
+x3
+x2
+x1
+
+Ligne 2-a:x2-x4
+x2
+x4
+
+Ligne 2-b:x4-x2
+x4
+x2
+
+Ligne 3-a:x3-x4
+x3
+x4
+
+Ligne 3-b:x4-x3
+x4
+x3
+
+Ligne 4-a:x4
+x4

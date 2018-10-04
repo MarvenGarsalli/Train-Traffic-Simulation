@@ -1,0 +1,293 @@
+Ligne 1-a
+Tunis Marine
+Farhat Hached
+Place de Barcelone
+Bab Alioua
+Mohamed Manachou
+13 Août
+Mohamed Ali
+El Kabaria
+Ibn Sina
+El Ouardia VI
+Cité Ennour
+Echebbi
+Ben Arous
+
+Ligne 1-b
+Ben Arous
+Echebbi
+Cité Ennour
+El Ouardia VI
+Ibn Sina
+El Kabaria
+Mohamed Ali
+13 Août
+Mohamed Manachou
+Bab Alioua
+Place de Barcelone
+Farhat Hached
+Tunis Marine
+
+Ligne 2-a
+Place de Barcelone
+Habib Thameur
+République
+Nelson Mandela
+Mohamed V
+Palestine
+Les jardins
+Cité El Khadra
+La jeunesse
+Cité sportive
+10 Décembre
+El Fell
+L'indépendance
+Ariana
+
+Ligne 2-b
+Ariana
+L'indépendance
+El Fell
+10 Décembre
+Cité sportive
+La jeunesse
+Cité El Khadra
+Les jardins
+Palestine
+Mohamed V
+Nelson Mandela
+République
+Ibn Rachiq
+Place de Barcelone
+
+Ligne 3-a
+Place de Barcelone
+Habib Thameur
+République
+Bab El Khadra
+Bab Laassal
+Bab Saadoun
+Mefteh Sâadallah
+Rommana
+Campus
+7 Novembre
+Les jasmins
+Ibn Khaldoun
+
+Ligne 3-b
+Ibn Khaldoun
+Les jasmins
+7 Novembre
+Campus
+Rommana
+Mefteh Sâadallah
+Bab Saadoun
+Bab Laassal
+Bab El Khadra
+République
+Ibn Rachiq
+Place de Barcelone
+
+Ligne 4-a
+Tunis Marine
+Farhat Hached
+Place de Barcelone
+Habib Thameur
+République
+Bab El Khadra
+Bab Laassal
+Bab Saadoun
+Bouchoucha
+20 Mars
+Bardo
+Essaidia
+Khaznadar
+L'Artisanat
+Den Den
+Mannouba
+Slimane Kahia
+Moncef Bay
+Aboubaker El Razi
+Le pôle technologique
+Kaser El Warda
+Le campus
+Kheireddine
+
+Ligne 4-b
+Kheireddine
+Le campus
+Kaser El Warda
+Le pôle technologique
+Aboubaker El Razi
+Moncef Bay
+Slimane Kahia
+Mannouba
+Den Den
+L'Artisanat
+Khaznadar
+Essaidia
+Bardo
+20 Mars
+Bouchoucha
+Bab Saadoun
+Bab Laassal
+Bab El Khadra
+République
+Ibn Rachiq
+Place de Barcelone
+Farhat Hached
+Tunis Marine
+
+Ligne 5-a
+Place de Barcelone
+Habib Thameur
+République
+Bab El Khadra
+Bab Laassal
+Bab Saadoun
+Mefteh Sâadallah
+Rommana
+Campus
+7 Novembre
+Les jasmins
+Ettahrir
+El Omrane supérieur
+Ettadhamen
+Intilaka
+
+Ligne 5-b
+Intilaka
+Ettadhamen
+El Omrane supérieur
+Ettahrir
+Les jasmins
+7 Novembre
+Campus
+Rommana
+Mefteh Sâadallah
+Bab Saadoun
+Bab Laassal
+Bab El Khadra
+République
+Ibn Rachiq
+Place de Barcelone
+
+Ligne 6-a
+Place de Barcelone
+Bab Alioua
+Mohamed Manachou
+13 Août
+Mohamed Ali
+Tahar Haddad
+Ghazeli
+Cité municipale
+Ennesri
+El Montazah
+El Mourouj 2
+El Mourouj 1
+Environnement
+El Mourouj 3
+Martyrs
+El Mourouj 4
+
+Ligne 6-b
+El Mourouj 4
+Martyrs
+El Mourouj 3
+Environnement
+El Mourouj 1
+El Mourouj 2
+El Montazah
+Ennesri
+Cité municipale
+Ghazeli
+Tahar Haddad
+Mohamed Ali
+13 Août
+Mohamed Manachou
+Bab Alioua
+Place de Barcelone
+
+Ligne 12-a
+El Ouardia VI
+Ibn Sina
+El Kabaria
+Mohamed Ali
+13 Août
+Mohamed Manachou
+Bab Alioua
+Place de Barcelone
+Habib Thameur
+République
+Nelson Mandela
+Mohamed V
+Palestine
+Les jardins
+Cité El Khadra
+La jeunesse
+Cité sportive
+10 Décembre
+
+Ligne 12-b
+10 Décembre
+Cité sportive
+La jeunesse
+Cité El Khadra
+Les jardins
+Palestine
+Mohamed V
+Nelson Mandela
+République
+Ibn Rachiq
+Place de Barcelone
+Bab Alioua
+Mohamed Manachou
+13 Août
+Mohamed Ali
+El Kabaria
+Ibn Sina
+El Ouardia VI
+
+Ligne 14-a
+El Ouardia VI
+Ibn Sina
+El Kabaria
+Mohamed Ali
+13 Août
+Mohamed Manachou
+Bab Alioua
+Place de Barcelone
+Habib Thameur
+République
+Bab El Khadra
+Bab Laassal
+Bab Saadoun
+Bouchoucha
+20 Mars
+Bardo
+Essaidia
+Khaznadar
+L'Artisanat
+Den Den
+
+Ligne 14-b
+Den Den
+L'Artisanat
+Khaznadar
+Essaidia
+Bardo
+20 Mars
+Bouchoucha
+Bab Saadoun
+Bab Laassal
+Bab El Khadra
+République
+Ibn Rachiq
+Place de Barcelone
+Bab Alioua
+Mohamed Manachou
+13 Août
+Mohamed Ali
+El Kabaria
+Ibn Sina
+El Ouardia VI

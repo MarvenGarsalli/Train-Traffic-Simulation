@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1463691314 source:c:\users\marven\desktop\c++\ligneparis\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+
+1538586407 source:f:\c++avancee\ligneparis\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<vector>
+	<cstdlib>
+
